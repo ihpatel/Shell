@@ -21,7 +21,7 @@ Part 2: Signal Handling, More Parsing, and Subshells
 - 2.8: Subshells
 
 Part 3: Expansions, Wildcards, and Line Editing (in progress)
-- 3.1: Environment variable expansion "${$}, ${?}, ${!}, ${_}, ${SHELL}"
+- 3.1: Environment variable expansion "$, ?, !, _, SHELL"
 - 3.2: Tilde expansion
 - 3.3: Wildcarding
 - 3.4: Edit mode
