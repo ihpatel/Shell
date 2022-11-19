@@ -1,0 +1,1009 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+[master 8c7e031] \Total:                   0.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 3572 insertions(+)
+ create mode 100644 lex.yy.cc
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+M	lex.yy.cc
+M	shell.l
+M	shell.y
+M	y.tab.cc
+M	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 1c95ef8] \Total:                   0.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 321 insertions(+), 93 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master fef3b4b] \Total:                   0.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 7aa4ccb] \Total:                   0.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+), 6 deletions(-)
+M	command.cc
+M	command.hh
+M	shell.cc
+M	shell.y
+M	test-shell/testall.out
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master 7c4bd5c] \Grade Report for Lab 3 Testall\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 134 insertions(+), 113 deletions(-)
+ rewrite test-shell/testall.out (97%)
+M	shell.y
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master 603df88] \Grade Report for Lab 3 Testall\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 17 deletions(-)
+D	lex.yy.cc
+M	test-shell/testall.out
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 5fe2172] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 1 insertion(+), 3729 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 0bcadba] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 3733 insertions(+), 1 deletion(-)
+ create mode 100644 lex.yy.cc
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+M	test-shell/file-list-1
+M	test-shell/file-list-2
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master eb7ab5e] \Total:                   21.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 105 insertions(+), 2 deletions(-)
+ rewrite test-shell/testall.out (100%)
+D	lex.yy.cc
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master bf615a2] \Total:                   21.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 3730 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 0c19464] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 3732 insertions(+), 46 deletions(-)
+ create mode 100644 lex.yy.cc
+ rewrite test-shell/testall.out (100%)
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 975daaf] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master d6b4868] \Part 1 Total:            3.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+D	lex.yy.cc
+M	test-shell/testall.out
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 24fd27f] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 1 insertion(+), 3731 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master fdc7463] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 3731 insertions(+), 1 deletion(-)
+ create mode 100644 lex.yy.cc
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master fd9a2bf] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+M	shell.cc
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master 7800726] \Part 1 Total:            20.0 of 20.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 37 insertions(+), 18 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 686f88f] \Part 2 Total:            1.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 0e61448] \Part 2 Total:            1.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 916b3a7] \Part 2 Total:            1.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master d88a9d7] \Part 2 Total:            1.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 23 insertions(+), 4 deletions(-)
+M	command.cc
+M	test-shell/file-list-1
+M	test-shell/file-list-2
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 103a0ba] \Part 2 Total:            3.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 6 deletions(-)
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.vscode/
+	command.o
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/tty-raw-mode.o
+	lex.yy.o
+	out
+	outfile
+	shell
+	shell.o
+	simpleCommand.o
+	test-shell/bgfile
+	test-shell/err1
+	test-shell/err2
+	test-shell/hello world
+	test-shell/out2
+	test-shell/sh-in
+	test-shell/sh-out
+	test-shell/shell-in
+	test-shell/shell-out
+	testall.out
+	y.tab.o
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	command.cc
+M	test-shell/test_printenv
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 03d97fe] \Part 2 Total:            5.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 63 insertions(+), 29 deletions(-)
+M	command.cc
+M	lex.yy.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 0320b5c] \Part 2 Total:            5.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 192 insertions(+), 80 deletions(-)
+M	command.cc
+M	lex.yy.cc
+M	shell.cc
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 2509eaf] \Part 2 Total:            15.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 179 insertions(+), 8 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 0b12dd4] \Part 2 Total:            15.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	lex.yy.cc
+M	shell.l
+M	test-shell/file-list-1
+M	test-shell/file-list-2
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 95cdacf] \Part 2 Total:            18.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 238 insertions(+), 95 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 62cf3cc] \Part 2 Total:            18.5 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	command.cc
+M	lex.yy.cc
+M	test-shell/file-list-1
+M	test-shell/file-list-2
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 1ec6fd5] \Part 2 Total:            20.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 123 insertions(+), 26 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 2eed477] \Part 2 Total:            20.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	command.cc
+M	lex.yy.cc
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 03be51e] \Part 2 Total:            22.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 441 insertions(+), 247 deletions(-)
+D	lex.yy.cc
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 66e2df1] \Part 2 Total:            22.0 of 22.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4252 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 6fecd6b] \Part 3 Total:            2.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 4261 insertions(+), 3 deletions(-)
+ create mode 100644 lex.yy.cc
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+M	lex.yy.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master d89e994] \Part 3 Total:            2.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 397 insertions(+), 311 deletions(-)
+M	command.cc
+M	command.hh
+M	lex.yy.cc
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 9fe132d] \Part 3 Total:            6.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 795 insertions(+), 440 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e48181a] \Part 3 Total:            6.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	command.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 3cba138] \Part 3 Total:            6.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+M	lex.yy.cc
+M	shell.cc
+M	shell.hh
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 56a1fe4] \Part 3 Total:            7.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 47 insertions(+), 26 deletions(-)
+M	command.cc
+M	lex.yy.cc
+M	shell.l
+M	shell.y
+M	test-shell/testall.out
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master 6995782] \Grade Report for Lab 3 Testall\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1350 insertions(+), 781 deletions(-)
+M	command.cc
+M	shell.cc
+M	shell.y
+M	simpleCommand.cc
+M	test-shell/testall.out
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master 064a209] \Part 3 Total:            28.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 133 insertions(+), 46 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master c459ca3] \Part 3 Total:            28.0 of 28.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	simpleCommand.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 49fc7ec] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 51 insertions(+), 7 deletions(-)
+ rewrite test-shell/testall.out (100%)
+M	Makefile
+M	lex.yy.cc
+M	read-line.c
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master faea941] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 197 insertions(+), 67 deletions(-)
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master ee552c4] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 8 deletions(-)
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master e325a4f] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 96 insertions(+), 25 deletions(-)
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master ad00265] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+)
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master 7e1b987] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+), 12 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000ab108840000233f
+	.nfs000000000ab1089500002340
+	.vscode/
+	command.o
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/tty-raw-mode.o
+	file-list-2
+	lex.yy.o
+	out
+	out2
+	outfile
+	read-line.o
+	shell
+	shell.o
+	simpleCommand.o
+	test-shell/bgfile
+	test-shell/err1
+	test-shell/err2
+	test-shell/hello world
+	test-shell/out
+	test-shell/out1
+	test-shell/out2
+	test-shell/sh-in
+	test-shell/sh-out
+	test-shell/shell-in
+	test-shell/shell-out
+	testall.out
+	tty-raw-mode.o
+	y.tab.o
+
+nothing added to commit but untracked files present (use "git add" to track)
+D	lex.yy.cc
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 4987600] \Total:                   70.0 of 70.0\
+ Committer: Ishan Hirenkumar Patel <ihpatel@mc19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 5229 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
