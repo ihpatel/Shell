@@ -20,7 +20,7 @@ Part 2: Signal Handling, More Parsing, and Subshells
 - 2.7: Creating a Default Source File: “.shellrc”
 - 2.8: Subshells
 
-Part 3: Expansions, Wildcards, and Line Editing (in progress)
+Part 3: Expansions, Wildcards, and Line Editing 
 - 3.1: Environment variable expansion "$, ?, !, _, SHELL"
 - 3.2: Tilde expansion
 - 3.3: Wildcarding
